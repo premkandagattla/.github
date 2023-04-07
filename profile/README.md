@@ -8,4 +8,4 @@ I'm Prem Sai Krishna, a Full Stack Software Developer. I'm passionate about Tech
 
 🤝 I’m open to any Full stack roles irrespective of technology.
 
-👨‍💻 All of my projects are available at ![Prem Kandagattla](https://github.com/premkandagattla).
+👨‍💻 All of my projects are available at ![Prem Kandagattla](https://github.com/orgs/premkandagattla/repositories).
